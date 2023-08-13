@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "196425778974",
+    "project_id": "studentform-be3cf",
+    "storage_bucket": "studentform-be3cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:196425778974:android:6c6c508f8c5a3e4e0f2b0f",
+        "android_client_info": {
+          "package_name": "com.example.formstudent"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "196425778974-pqedlht7iijj29foqtsgb3a668olo75p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfA1ARW21SefxFesC2elZzwjcI13hfcf0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "196425778974-pqedlht7iijj29foqtsgb3a668olo75p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
